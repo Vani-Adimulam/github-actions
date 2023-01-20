@@ -35,9 +35,7 @@ jobs:
           echo What is in this directory?
           ls -a
           echo 
-          echo What is python istalled?
-          Python -version 
-          Java -version
+          echo What is python istalled? 
           echo Hey is git installed?
           git --version
           
